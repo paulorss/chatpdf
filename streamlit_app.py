@@ -157,7 +157,7 @@ If the document doesn't specifically mention the exact information asked, please
             },
             {
                 "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
-                "threshold": "BLOCK_ONLY_LOW"
+                "threshold": "BLOCK_ONLY_HIGH"
             },
             {
                 "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
