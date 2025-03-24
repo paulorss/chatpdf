@@ -1,9 +1,5 @@
 streamlit
-base64
-tempfile
 mistralai
 PIL
-io
-dotenv
 google-generativeai
 
