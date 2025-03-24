@@ -6,3 +6,4 @@ PIL
 io
 dotenv
 google-generativeai
+
